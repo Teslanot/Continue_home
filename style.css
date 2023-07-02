@@ -1,0 +1,9 @@
+
+.form_my{display:flex;
+    flex-direction:column;
+    width: 500px;
+    height: 500px;
+    padding: auto;
+    margin: auto;
+    align-items:center;
+}
